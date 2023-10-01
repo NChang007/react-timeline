@@ -8,6 +8,7 @@ const TimeLine = () => {
             <div className='inner-line'></div>
             <div className='event' data-direction="up">Launch Date</div>
             <div className='event' data-direction="up">Became President</div>
+            <div className='event' data-direction="up">Lauched STENFEN</div>
         </div>
     </div>
   )
